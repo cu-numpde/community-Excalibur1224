@@ -21,7 +21,7 @@ Please edit this file and push to your repository.
 | Does the project have an automated test suite? | yes |
 | Does the project use continuous integration? | yes |
 | Are any legal/licensing steps required to contribute? | Yes, there is an agreement |
-| Does the project have a policy on LLM use/disclosure in contributions | yes (link) or no | 
+| Does the project have a policy on LLM use/disclosure in contributions | no | 
 
 ### Install and run
 
