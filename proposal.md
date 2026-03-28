@@ -1,10 +1,7 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
-
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+## Software: *OpenFOAM*
 
 ### Stats
 
