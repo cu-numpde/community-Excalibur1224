@@ -38,13 +38,6 @@ encountered a problem.
 Some of the dependancies recommended had trouble resolving and I think it is causing some test cases to not compile correctly, but the majority that do pass.
 Also, there is a signed legal agreement to contributing to OpenFOAM, but it looks to be a small hiccup as it is signed by both parties, and the literature on the website say that it will be done once they get it just to be legally binding. Does not look like a lengthy process.
 
-Please comment on any anomalies or known risks to following this
-project, if you were unable to answer any questions above, or
-otherwise have concerns about the appropriateness of the software.  If
-the project requires a contributor license agreement or other
-procedural steps, please explain here.  "None at this time" is
-acceptable for this question.
-
 #### Note on copyright
 Students retain copyright on any work done in completion of a CU
 course, so you are authorized to sign a [contributor license
